@@ -23,7 +23,7 @@ check if string is palindrome, meaning is characters are the same from start to 
 /*
 1. convert string to a charcter array
 2. iterate over each character 
-3. check if index i = index length-i 
+3. check if index i = (index length -1)-i 
 4. if the characters match? return true else return false
   Add written explanation of your solution here
 */
